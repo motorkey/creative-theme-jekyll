@@ -321,6 +321,12 @@ header {
     font-size: 4em;
 }
 
+// Footer
+#footer {
+  font-size: 0.9em;
+  color: rgba($theme-dark, .5);
+}
+
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
@@ -348,4 +354,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
